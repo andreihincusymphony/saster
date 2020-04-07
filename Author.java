@@ -11,6 +11,8 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
     "email"
 })
 public class Author {
+    
+    //fff
 
     @JsonProperty("name")
     private String name;
